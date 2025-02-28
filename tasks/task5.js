@@ -2,7 +2,7 @@ export const divideAndSort = function divideAndSort(num) {
   console.log(
     Number(
       String(num)
-        .split("0") //Memisah angka berdasarkan 0
+        .split("0") // Memisah angka berdasarkan 0
         .map(
           (segment) =>
             segment
