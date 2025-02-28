@@ -1,5 +1,5 @@
 export const cekPalindrom = function cekPalindrom(text) {
-  //Membalik string dan membandingkan dengan string asli
+  // Membalik string dan membandingkan dengan string asli
   console.log(
     text === text.split("").reverse().join("") ? "Palindrom" : "Bukan Palindrom"
   );
