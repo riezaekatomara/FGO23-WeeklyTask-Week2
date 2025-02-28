@@ -1,6 +1,6 @@
 // Simulasi fungsi untuk mengambil data dari server
 export const getDataFromServer = function getDataFromServer(cb) {
-  console.log("Memulai pengambilan data.....");
+  console.log("Memulai pengambilan data...");
   setTimeout(() => {
     // Simulasi data dari server
     const data = {
