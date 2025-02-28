@@ -24,7 +24,7 @@ export const getUserData = async function getUsersData() {
     );
 
     // Tampilkan hasil
-    console.log("Data users yang telah diurutkan berdasarkan domisili: ");
+    console.log("Data users yang telah diurutkan berdasarkan domisili:");
     console.log(sortData);
 
     return sortData;
