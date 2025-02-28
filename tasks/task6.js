@@ -5,8 +5,8 @@ import consola from "consola";
 
 // Membuat interface readline untuk input user
 // const rl = readline.createInterface({
-//  input: process.stdin,
-//  output: process.stdout,
+// input: process.stdin,
+// output: process.stdout,
 // });
 
 // Direktori untuk menyimpan file
